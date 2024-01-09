@@ -1,5 +1,5 @@
 # cRegulon
-cRegulon is an optimization model to identify combinatorial regulon from single cell expression and chromatin accessibility data.
+cRegulon models combinatorial regulation from single-cell multi-omics provides units underpinning cell type landscape.
 
 ## Introduction
 This is cRegulon software: an optimization model to identify combinatorial regulon from single cell expression and chromatin accessibility data.
